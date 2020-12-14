@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d88c8370-21b9-464a-86c3-9d8b9dca7df8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>XDial</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/codec/gob.go" />
+        <option value="$PROJECT_DIR$/server.go" />
+        <option value="$PROJECT_DIR$/service.go" />
+        <option value="$PROJECT_DIR$/codec/codec.go" />
+        <option value="$PROJECT_DIR$/client.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="744" />
+    <option name="y" value="25" />
+    <option name="width" value="1718" />
+    <option name="height" value="1415" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flyrpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flyrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="744" y="25" width="1718" height="1415" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23229292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/net/rpc/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#426#447#0" />
+            <element signature="e#550#900#0" />
+            <element signature="e#1096#1360#0" />
+            <element signature="e#1907#2053#0" />
+            <element signature="e#2094#2756#0" />
+            <element signature="e#2236#2314#0" />
+            <element signature="e#2587#2754#0" />
+            <element signature="e#2711#2751#0" />
+            <element signature="e#2788#4510#0" />
+            <element signature="e#2844#4059#0" />
+            <element signature="e#2937#2951#0" />
+            <element signature="e#3083#4056#0" />
+            <element signature="e#3094#3527#0" />
+            <element signature="e#3462#3527#0" />
+            <element signature="e#3530#3892#0" />
+            <element signature="e#3812#3877#0" />
+            <element signature="e#3895#4052#0" />
+            <element signature="e#3972#4037#0" />
+            <element signature="e#4203#4287#0" />
+            <element signature="e#4218#4244#0" />
+            <element signature="e#4250#4284#0" />
+            <element signature="e#4325#4362#0" />
+            <element signature="e#4454#4508#0" />
+            <element signature="e#4537#4844#0" />
+            <element signature="e#4540#4842#0" />
+            <element signature="e#4583#4839#0" />
+            <element signature="e#4750#4839#0" />
+            <element signature="e#5374#5532#0" />
+            <element signature="e#5435#5495#0" />
+            <element signature="e#5698#5811#0" />
+            <element signature="e#5718#5775#0" />
+            <element signature="e#5833#5934#0" />
+            <element signature="e#6016#6151#0" />
+            <element signature="e#6056#6069#0" />
+            <element signature="e#6111#6124#0" />
+            <element signature="e#6216#6243#0" />
+            <element signature="e#6311#6341#0" />
+            <element signature="e#6382#6407#0" />
+            <element signature="e#6584#6642#0" />
+            <element signature="e#6803#7405#0" />
+            <element signature="e#6876#6898#0" />
+            <element signature="e#7162#7196#0" />
+            <element signature="e#7212#7279#0" />
+            <element signature="e#7319#7403#0" />
+            <element signature="e#7527#7638#0" />
+            <element signature="e#7585#7607#0" />
+            <element signature="e#7800#7968#0" />
+            <element signature="e#7842#7891#0" />
+            <element signature="e#8391#8915#0" />
+            <element signature="e#8502#8549#0" />
+            <element signature="e#8555#8863#0" />
+            <element signature="e#8807#8860#0" />
+            <element signature="e#9101#9198#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/net/rpc/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4374">
+          <caret line="186" column="35" lean-forward="true" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
+          <folding>
+            <element signature="e#4120#4239#0" expanded="true" />
+            <element signature="e#4241#4346#0" />
+            <element signature="e#4555#4692#0" />
+            <element signature="e#4707#4945#0" />
+            <element signature="e#5126#5299#0" />
+            <element signature="e#5484#5699#0" />
+            <element signature="e#5749#5935#0" />
+            <element signature="e#5997#6018#0" />
+            <element signature="e#6195#6407#0" />
+            <element signature="e#6226#6245#0" />
+            <element signature="e#6998#7042#0" />
+            <element signature="e#7233#7278#0" />
+            <element signature="e#7362#8471#0" />
+            <element signature="e#7506#7525#0" />
+            <element signature="e#7542#7650#0" />
+            <element signature="e#7692#7792#0" />
+            <element signature="e#7899#8330#0" />
+            <element signature="e#8054#8189#0" />
+            <element signature="e#8195#8285#0" />
+            <element signature="e#8391#8457#0" />
+            <element signature="e#8663#10371#0" />
+            <element signature="e#8744#10353#0" />
+            <element signature="e#8874#8891#0" />
+            <element signature="e#8970#9121#0" />
+            <element signature="e#8988#9105#0" />
+            <element signature="e#9224#9361#0" />
+            <element signature="e#9242#9345#0" />
+            <element signature="e#9461#9598#0" />
+            <element signature="e#9479#9582#0" />
+            <element signature="e#9674#9810#0" />
+            <element signature="e#9692#9794#0" />
+            <element signature="e#9863#10014#0" />
+            <element signature="e#9881#9998#0" />
+            <element signature="e#10124#10263#0" />
+            <element signature="e#10142#10247#0" />
+            <element signature="e#10294#10350#0" />
+            <element signature="e#10733#11105#0" />
+            <element signature="e#10853#10904#0" />
+            <element signature="e#11009#11058#0" />
+            <element signature="e#11148#11199#0" />
+            <element signature="e#11361#11870#0" />
+            <element signature="e#11377#11399#0" />
+            <element signature="e#11585#11607#0" />
+            <element signature="e#11733#11773#0" />
+            <element signature="e#11892#12006#0" />
+            <element signature="e#12069#12096#0" />
+            <element signature="e#12163#12193#0" />
+            <element signature="e#12277#12909#0" />
+            <element signature="e#12317#12579#0" />
+            <element signature="e#12348#12567#0" />
+            <element signature="e#12621#12882#0" />
+            <element signature="e#12652#12870#0" />
+            <element signature="e#12950#13095#0" />
+            <element signature="e#12965#13054#0" />
+            <element signature="e#13528#13707#0" />
+            <element signature="e#13583#13681#0" />
+            <element signature="e#13866#14558#0" />
+            <element signature="e#13928#14426#0" />
+            <element signature="e#14029#14339#0" />
+            <element signature="e#14063#14098#0" />
+            <element signature="e#14118#14134#0" />
+            <element signature="e#14215#14323#0" />
+            <element signature="e#14746#15195#0" />
+            <element signature="e#14873#15112#0" />
+            <element signature="e#14893#14912#0" />
+            <element signature="e#14991#15096#0" />
+            <element signature="e#15241#15425#0" />
+            <element signature="e#15304#15329#0" />
+            <element signature="e#15335#15386#0" />
+            <element signature="e#15475#15575#0" />
+            <element signature="e#15623#15819#0" />
+            <element signature="e#15690#15717#0" />
+            <element signature="e#15723#15778#0" />
+            <element signature="e#15872#15978#0" />
+            <element signature="e#16142#17007#0" />
+            <element signature="e#16232#16326#0" />
+            <element signature="e#16252#16267#0" />
+            <element signature="e#16465#16512#0" />
+            <element signature="e#16518#16578#0" />
+            <element signature="e#16682#16695#0" />
+            <element signature="e#16711#16736#0" />
+            <element signature="e#16786#16997#0" />
+            <element signature="e#16826#16904#0" />
+            <element signature="e#16906#16994#0" />
+            <element signature="e#17145#18114#0" />
+            <element signature="e#17254#17416#0" />
+            <element signature="e#17317#17332#0" />
+            <element signature="e#17620#17716#0" />
+            <element signature="e#17881#17961#0" />
+            <element signature="e#18034#18104#0" />
+            <element signature="e#18381#18530#0" />
+            <element signature="e#18388#18528#0" />
+            <element signature="e#18434#18497#0" />
+            <element signature="e#18637#18676#0" />
+            <element signature="e#18850#18900#0" />
+            <element signature="e#19447#19655#0" />
+            <element signature="e#20078#20112#0" />
+            <element signature="e#20254#20290#0" />
+            <element signature="e#20461#20506#0" />
+            <element signature="e#20723#20752#0" />
+            <element signature="e#20999#21407#0" />
+            <element signature="e#21029#21191#0" />
+            <element signature="e#21251#21329#0" />
+            <element signature="e#21657#21733#0" />
+            <element signature="e#21971#22034#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="n#!!block;n#serveCodec#0" />
+            <element signature="n#!!block;n#readRequestHeader#0" />
+            <element signature="n#!!block;n#findService#0" />
+            <element signature="n#!!block;n#readRequest#0" />
+            <element signature="n#!!block;n#sendResponse#0" />
+            <element signature="n#!!block;n#handleRequest#0" />
+            <element signature="n#!!block;n#Accept#0" />
+            <element signature="n#!!block;n#Accept#1" />
+            <element signature="n#!!block;n#Register#0" />
+            <element signature="n#!!block;n#Register#1" />
+            <element signature="n#!!block;n#ServeHTTP#0" />
+            <element signature="n#!!block;n#HandleHTTP#0" />
+            <element signature="n#!!block;n#HandleHTTP#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#16#69#0" expanded="true" />
+            <element signature="n#!!block;n#NumCalls#0" />
+            <element signature="n#!!block;n#newArgv#0" />
+            <element signature="n#!!block;n#newReplyv#0" />
+            <element signature="n#!!block;n#newService#0" />
+            <element signature="n#!!block;n#registerMethods#0" />
+            <element signature="n#!!block;n#call#0" />
+            <element signature="n#!!block;n#isExportedOrBuiltinType#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codec/gob.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codec/codec.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
